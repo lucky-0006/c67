@@ -1,6 +1,6 @@
 import firebase from 'firebase';
 
-// add SDK Firebase
+
 
 // Initialize Firebase
    const firebaseConfig = {
